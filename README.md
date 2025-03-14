@@ -63,8 +63,8 @@ Here are some projects I’ve worked on:
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/abdulaziz-aws)
-- 📧 Email: [your.email@example.com](mailto:azoozaws24@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/abdulaziz-aws)
+- 📧 Email: [azoozaws24@gmail.com](mailto:azoozaws24@gmail.com)
 - 🐦 Twitter/X: [@azoozaws](https://twitter.com/azoozaws)
 <!-- - 📝 Blog/Medium: [Link if applicable] -->
 ---
