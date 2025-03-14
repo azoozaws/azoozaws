@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I’m AbduAziz Aws!
-### *Data Scientist | ML*
+### *Data Scientist | ML | DL*
 
 ---
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) -->
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Data Science & ML**
+### **Data Science & ML & DL**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -65,9 +65,8 @@ Here are some projects I’ve worked on:
 ## 🌐 Connect with Me
 - 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/abdulaziz-aws)
 - 📧 Email: [your.email@example.com](mailto:azoozaws24@gmail.com)
-<!-- - 📝 Blog/Medium: [Link if applicable] -->
 - 🐦 Twitter/X: [@azoozaws](https://twitter.com/azoozaws)
-
+<!-- - 📝 Blog/Medium: [Link if applicable] -->
 ---
 
 ⭐ *"Data is the new oil!"* — Let’s explore the world of data science together!
