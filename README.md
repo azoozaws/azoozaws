@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I’m AbduAziz Aws!
+# 👋 Hi, I’m AbduAziz Aws
 ### *Data Scientist | ML | DL*
 
 ---
