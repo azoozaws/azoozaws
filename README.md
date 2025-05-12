@@ -66,6 +66,7 @@ Here are some projects I’ve worked on:
 - 💼 LinkedIn: [AbdulAziz Aws](https://linkedin.com/in/abdulaziz-aws)
 - 📧 Email: [azoozaws24@gmail.com](mailto:azoozaws24@gmail.com)
 - 🐦 Twitter/X: [@azoozaws](https://twitter.com/azoozaws)
+- 🌐 Protofile: abdulazizaws.vercel.app
 <!-- - 📝 Blog/Medium: [Link if applicable] -->
 ---
 
