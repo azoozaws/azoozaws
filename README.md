@@ -58,15 +58,6 @@ Currently, I am the **Co-founder of FashionVue**, where I lead the engineering o
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azoozaws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoozaws&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 | Project | Tech Stack | Description |
