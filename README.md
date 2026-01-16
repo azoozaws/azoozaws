@@ -1,73 +1,87 @@
-<!--
-**azoozaws/azoozaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi there, I'm Abdulaziz Aws
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Co-founder & AI Engineer @ FashionVue | Computer Science Graduate
 
-# 👋 Hi, I’m AbduAziz Aws
-### *Data Scientist | ML | DL*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Systems;Architecting+Backend+Solutions;Turning+Data+into+Insights;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
----
+<p align="center">
+  <a href="https://abdulazizaws.vercel.app">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/abdulaziz-aws">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulaziz.m.aws@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 🚀 About Me
-- 🎓 Studying **Computer Science** at Arab Open University
-- 💡 Passionate about **Data Science, Machine Learning, and Deep Learning**
-- 🌱 Currently learning: **Machine Learning, Deep Learning**
-<!-- - ⚡ Fun fact: [Add a quirky fact, e.g., "I once trained a model to predict my coffee preferences!"] -->
+</div>
 
 ---
 
-## 🔧 Skills & Tools
-### **Programming**
+## 👨‍💻 About Me
+
+I am a **Computer Science Graduate** and an **AI Engineer** passionate about bridging the gap between theoretical Data Science and production-grade Engineering. 
+
+Currently, I am the **Co-founder of FashionVue**, where I lead the engineering of AI-powered metadata management systems using LLMs. My focus is on building robust backends, deploying ML models, and optimizing data pipelines.
+
+- 🔭 **Currently working on:** Automating metadata extraction using Large Language Models (LLMs).
+- 🌱 **Currently learning:** Advanced MLOps & Microservices Architecture.
+- 💼 **Experience:** AI Engineering, Backend Development (FastAPI), Data Analysis.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **💻 Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) -->
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Data Science & ML & DL**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### **🤖 AI & Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **Tools**
+### **⚙️ Backend & DevOps**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-<!-- ## 📂 Projects
-Here are some projects I’ve worked on:
-1. **[Project Title 1](Link)**  
-   *Short description (e.g., "A machine learning model to predict X using Y dataset")*
-2. **[Project Title 2](Link)**  
-   *Short description*
-3. **[Project Title 3](Link)**  
-   *Short description*
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azoozaws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoozaws&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+</div>
 
 ---
 
-## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
--->
+## 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **AI Metadata System** | `FastAPI` `Docker` `LLMs` | Architected a scalable system to automate metadata tagging, reducing manual entry by 40%. |
+| **Insulin Prediction** | `XGBoost` `CatBoost` `Pandas` | **Graduation Project:** Developed a screening tool to identify insulin resistance risks with 0.86 AUC. |
+| **Book Recommendation** | `NLP` `TF-IDF` `Streamlit` | Designed a content-based recommendation engine for personalized reading lists. |
+
 ---
 
-## 🌐 Connect with Me
-- 💼 LinkedIn: [AbdulAziz Aws](https://linkedin.com/in/abdulaziz-aws)
-- 📧 Email: [abdulaziz.m.aws@gmail.com](mailto:abdulaziz.m.aws@gmail.com)
-- 🐦 Twitter/X: [@azoozaws](https://twitter.com/azoozaws)
-- 🌐 Protofile: [AbdulAziz Aws](https://abdulazizaws.vercel.app)
-<!-- - 📝 Blog/Medium: [Link if applicable] -->
----
-
-⭐ *"Data is the new oil!"* — Let’s explore the world of data science together!
+<div align="center">
+  <p><i>"The goal is to turn data into information, and information into insight."</i></p>
+  <p>
+    <a href="https://twitter.com/azoozaws" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+</div>
